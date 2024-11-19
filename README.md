@@ -41,25 +41,30 @@ Launch the virtualization software on your system.
 
 ## **COMMANDS**  
 
-1. **Switch to a User**:
-   ```bash
-   su username
-   ```
-
-2. **View IP Address**:
-   ```bash
-   ip a
-   ```
-
-3. **Create a Directory**:
-   ```bash
-   mkdir <directory_name>
-   ```
-
-4. **Change to the New Directory**:
-   ```bash
-   cd <directory_name>
-   ```
+#### Switch to User:
+```
+su username
+```
+#### View IP Address:
+```
+ip a
+```
+#### Create a Directory:
+```
+mkdir <directory_name>
+```
+#### Change to the New Directory:
+```
+cd <directory_name>
+```
+#### Edit the Hostname File:
+```
+vi /etc/hostname
+```
+#### View the Content of the Hostname File:
+```
+cat /etc/hostname
+```
 
 ## OUTPUT
 
