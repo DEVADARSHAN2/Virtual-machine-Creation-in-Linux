@@ -10,7 +10,7 @@ To install a Linux virtual machine (VM) using CentOS on VirtualBox or VMware Wor
 This experiment involves setting up a virtual machine with CentOS, a popular Linux distribution. This setup allows users to practice Linux commands, test applications, and develop software in a virtualized environment without affecting the host system.
 
 ## ALGORITHM
- ### Step 1:q
+ ### Step 1:
  Open VirtualBox or VMware Workstation</br>
  
  ### Step 2:
